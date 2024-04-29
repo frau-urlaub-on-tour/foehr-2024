@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "FOEHR 2024",
+    "description": "",
+    "home_page_url": "https://frau-urlaub-on-tour.github.io/foehr-2024",
+    "feed_url": "https://frau-urlaub-on-tour.github.io/foehr-2024/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "author1"
+    },
+    "items": [
+        {
+            "id": "https://frau-urlaub-on-tour.github.io/foehr-2024/beyond-the-50th.html",
+            "url": "https://frau-urlaub-on-tour.github.io/foehr-2024/beyond-the-50th.html",
+            "title": "BEYOND THE 50th",
+            "content_html": "<div class=\"gallery-wrapper gallery-wrapper--full\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"4\">\n<figure class=\"gallery__item\"><a href=\"https://frau-urlaub-on-tour.github.io/foehr-2024/media/posts/5/gallery/IMG_4740_col.JPG\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://frau-urlaub-on-tour.github.io/foehr-2024/media/posts/5/gallery/IMG_4740_col-thumbnail.JPG\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://frau-urlaub-on-tour.github.io/foehr-2024/media/posts/5/gallery/IMG_4741_col.JPG\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://frau-urlaub-on-tour.github.io/foehr-2024/media/posts/5/gallery/IMG_4741_col-thumbnail.JPG\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://frau-urlaub-on-tour.github.io/foehr-2024/media/posts/5/gallery/IMG_4742_col.JPG\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://frau-urlaub-on-tour.github.io/foehr-2024/media/posts/5/gallery/IMG_4742_col-thumbnail.JPG\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://frau-urlaub-on-tour.github.io/foehr-2024/media/posts/5/gallery/IMG_4744_col.JPG\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://frau-urlaub-on-tour.github.io/foehr-2024/media/posts/5/gallery/IMG_4744_col-thumbnail.JPG\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://frau-urlaub-on-tour.github.io/foehr-2024/media/posts/5/gallery/IMG_4747_col.JPG\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://frau-urlaub-on-tour.github.io/foehr-2024/media/posts/5/gallery/IMG_4747_col-thumbnail.JPG\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://frau-urlaub-on-tour.github.io/foehr-2024/media/posts/5/gallery/IMG_4751_col.JPG\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://frau-urlaub-on-tour.github.io/foehr-2024/media/posts/5/gallery/IMG_4751_col-thumbnail.JPG\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://frau-urlaub-on-tour.github.io/foehr-2024/media/posts/5/gallery/IMG_4752_col.JPG\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://frau-urlaub-on-tour.github.io/foehr-2024/media/posts/5/gallery/IMG_4752_col-thumbnail.JPG\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://frau-urlaub-on-tour.github.io/foehr-2024/media/posts/5/gallery/IMG_4754_col.JPG\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://frau-urlaub-on-tour.github.io/foehr-2024/media/posts/5/gallery/IMG_4754_col-thumbnail.JPG\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://frau-urlaub-on-tour.github.io/foehr-2024/media/posts/5/gallery/IMG_4755_col.JPG\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://frau-urlaub-on-tour.github.io/foehr-2024/media/posts/5/gallery/IMG_4755_col-thumbnail.JPG\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://frau-urlaub-on-tour.github.io/foehr-2024/media/posts/5/gallery/IMG_4757_col.JPG\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://frau-urlaub-on-tour.github.io/foehr-2024/media/posts/5/gallery/IMG_4757_col-thumbnail.JPG\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n</div></div>",
+            "image": "https://frau-urlaub-on-tour.github.io/foehr-2024/media/posts/5/IMG_4740_col.JPG",
+            "author": {
+                "name": "author1"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-07-30T17:39:41+02:00",
+            "date_modified": "2024-04-29T13:49:13+02:00"
+        }
+    ]
+}
